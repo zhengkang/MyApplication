@@ -9,6 +9,10 @@ import android.widget.TextView;
 
 import xiangqing.hulian.com.myapplication.recyclerview.RecyclerActivity;
 
+
+/**
+ *
+ */
 public class MainActivity extends Activity implements View.OnClickListener {
 
     @Override
